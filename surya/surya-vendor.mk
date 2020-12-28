@@ -62,6 +62,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/surya/proprietary/product/lib64/vendor.qti.hardware.fm@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.hardware.fm@1.0.so \
     vendor/xiaomi/surya/proprietary/product/lib64/vendor.qti.imsrtpservice@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.0.so \
     vendor/xiaomi/surya/proprietary/product/lib64/vendor.qti.imsrtpservice@2.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.1.so \
+    vendor/xiaomi/surya/proprietary/system_ext/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/system_ext/lib64/libaptXHD_encoder.so \
+    vendor/xiaomi/surya/proprietary/system_ext/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/system_ext/lib64/libaptX_encoder.so \
     vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/hw/hwcomposer.sm6150.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/hw/hwcomposer.sm6150.so \
     vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/libsdmcore.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/libsdmcore.so \
     vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libvolumelistener.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libvolumelistener.so \
